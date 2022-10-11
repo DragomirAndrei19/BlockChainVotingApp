@@ -39,14 +39,19 @@ Screenshots
 
 a) Home Page 
 ![image](https://user-images.githubusercontent.com/56070218/195163427-ca9104c6-f944-41f8-80c8-4380c831df99.png)
+
 b) Pending requests page 
 ![image](https://user-images.githubusercontent.com/56070218/195163087-147f3ec2-099e-4bde-8870-cd83338145da.png)
+
 c) Page with the list of candidates
 ![image](https://user-images.githubusercontent.com/56070218/195163198-e83ff2f0-38f2-4f5d-8330-f444472b2997.png)
+
 d) Register Candidates page
 ![image](https://user-images.githubusercontent.com/56070218/195163507-8b790183-c6e5-4305-aa9b-28cb3266f6b5.png)
+
 e) Approval prompt 
 ![image](https://user-images.githubusercontent.com/56070218/195163600-987ea8e9-f66a-4837-af01-67622e3fc7e1.png)
+
 f) Administrator panel
 ![image](https://user-images.githubusercontent.com/56070218/195163622-a1c781fe-a44e-4625-acb8-06354fb0621b.png)
 
