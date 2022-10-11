@@ -36,6 +36,7 @@ How to run:
 4) npm run start (to run the frontend side of the web app)
 
 Screenshots
+
 a) Home Page 
 ![image](https://user-images.githubusercontent.com/56070218/195163427-ca9104c6-f944-41f8-80c8-4380c831df99.png)
 b) Pending requests page 
